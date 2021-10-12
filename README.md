@@ -5,3 +5,4 @@ The dataset is about the bacteria that can be found in the belly buttons of vari
 
 Link to the dashboard:
 https://normanchan19.github.io/plotly-challenge-Belly-Button-Biodiversity-Dashboard/
+
